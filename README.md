@@ -58,6 +58,7 @@
 - Install Edge Extensions https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home?hl=en-US
 
 # product-search
+- https://reactjs.org/docs/thinking-in-react.html
 - FilterableProductTable
   - SearchBar
   - ProductTable
