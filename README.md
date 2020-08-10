@@ -76,6 +76,7 @@
 - function (Simple component)
 - Class Components - A class component must include render(), and the return can only return one parent element.
 - Props - Or properties
+- State - Data that is manipulated and retained, but not necessarily added to a database. Similar to session variables. Example given: Add or remove items from a shopping cart before confirming your purchase.
 - Add Class, Componenets, Properties, and Functions
 - Use JSX - JavaScript XML
 - Add data
