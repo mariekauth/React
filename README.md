@@ -4,6 +4,7 @@
 - https://reactjs.org/docs/getting-started.html
 - Tutorial 1: tic-tac-toe from https://reactjs.org/tutorial.htm
 - Tutorial 2: product-search from https://reactjs.org/docs/thinking-in-react.html
+- Tutorial 3: task-list from https://www.taniarascia.com/getting-started-with-react/
 
 # Create new React App
 - Navigate to your repo
@@ -19,6 +20,7 @@
 - Build your app when done
 - `cd ~/source{repo}/{my-app}`
 - `npm run build`
+- https://github.com/facebook/create-react-app recommends that if you installed create-react globally, uninstall it and instead use npx to always install the latest version.
 
 # Alternative Create new React App
 - Install create-react-native-app globally
@@ -64,3 +66,20 @@
   - ProductTable
     - ProductCategoryRow
     - ProductRow
+
+# task-list
+- Tutorial
+- https://www.taniarascia.com/getting-started-with-react/
+- Create starter app
+- Modify app 
+- Const
+- Class Components
+- Simple Components
+- Add Class, Componenets, Properties, and Functions
+- Use JSX - JavaScript XML
+- Add data
+- Work with State
+- Work with a Form
+- Pull in API Data
+- Deploy the app
+- Note: The render() method is the only required method ina a class component, which is used to render DOM nodes.
