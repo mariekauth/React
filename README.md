@@ -72,9 +72,10 @@
 - https://www.taniarascia.com/getting-started-with-react/
 - Create starter app
 - Modify app 
-- Const
-- Class Components
-- Simple Components
+- Const (Simple component)
+- function (Simple component)
+- Class Components - A class component must include render(), and the return can only return one parent element.
+- Props - Or properties
 - Add Class, Componenets, Properties, and Functions
 - Use JSX - JavaScript XML
 - Add data
