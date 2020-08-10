@@ -82,6 +82,9 @@
 - Add data
 - Work with State
 - Work with a Form
-- Pull in API Data
+- Pull in API Data - API stands for Application Program Interface
+- The new aspect to this code is componentDidMount(), a React lifecycle method.
+- Lifecycle is the order in which methods are called in React.
+- Mounting refers to an item being inserted into the DOM.
 - Deploy the app
 - Note: The render() method is the only required method ina a class component, which is used to render DOM nodes.
